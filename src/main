@@ -1,0 +1,5 @@
+# URL e importação dos datasets
+
+tiktok2020 = "../data/TikTok_songs_2020.csv"
+tiktok2021 = "../data/TikTok_songs_2021.csv"
+tiktok2022 = "../data/TikTok_songs_2022.csv"
